@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Jarely!
-- 🎓 I have a B.S. in Geology with a geophysics minor from the University of Houston.
-- 🖥️ I have experience implementing machine learning algorithms for geoscience studies.
-- 📚 I am now a graduate student at Virginia Tech.
-- 🌱 I love taking on any opportunity to learn Python! 
+### 👋Hi, I’m Jarely!<br/>
+🎓 I have a B.S. in Geology with a geophysics minor from the University of Houston.<br/>
+🖥️ I have experience implementing machine learning algorithms for geoscience studies.<br/>
+📚 I am now a graduate student at Virginia Tech.<br/>
+🌱 I love taking on any opportunity to learn Python! <br/>
 
 
 <!---
